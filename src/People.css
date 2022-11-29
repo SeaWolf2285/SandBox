@@ -1,0 +1,11 @@
+#people {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+#list {
+  border-color: blue;
+}
+#button {
+  border-color: blue;
+}
